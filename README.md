@@ -179,7 +179,7 @@ if result.is_url:
 
 > **pip install snapscan-core** — coming soon to PyPI
 
-See the [snapscan-core documentation](docs/SnapScan-core.md) for full details.
+See the [snapscan-core documentation](https://github.com/CoderRhino500/SnapScan/blob/main/SnapScan-core%20(Library).md) for full details.
 
 ---
 
