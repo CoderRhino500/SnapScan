@@ -1,0 +1,6 @@
+mss
+pyzbar
+Pillow
+pynput
+pystray
+plyer
