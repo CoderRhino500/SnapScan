@@ -16,7 +16,7 @@ SnapScan sits silently in your system tray. Press a hotkey, and it captures your
 - 🔓 **No login required** — download and run, that's it
 - 📖 **Open source** — free forever
 
----
+----
 
 ## 📸 How It Works
 
