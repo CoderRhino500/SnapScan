@@ -67,7 +67,11 @@ cd SnapScan
 # 2. Install dependencies
 pip install -r requirements.txt
 
-# 3. Run the app
+# 3. Run "config.json" file
+python config.json
+
+# 4. Move to "snapscan_app" folder and then run the app
+cd snapscan_app
 python main.py
 ```
 
